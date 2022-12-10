@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ Personal Info
 - Kim Sung Uk
-- CHUNG-ANG University (CAU)
+- Chung-Ang University (CAU)
 - ksu930310@gmail.com
 
 ## :earth_asia: 기술정보
@@ -18,9 +18,9 @@
 <span><img src="https://img.shields.io/badge/styled-components-7952B3?style=flat&logo=styled-components&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Axios-06B6D4?style=flat&logo=Axios&logoColor=white"/></span><br/>
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=heroku&logoColor=white"/></span><br/>
-
+- Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat&logo=bitbucket&logoColor=white"/></span><br/>
+- Communication : <span><img src="https://img.shields.io/badge/Notion?style=flat&logo=Notion&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Slack?style=flat&logo=Slacke&logoColor=white"/></span>
