@@ -1,14 +1,14 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=KimSungUk&fontAlign=23&fontAlignY=40&color=gradient)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=ksu930&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=ksu930&layout=compact&theme=dracula)
 
-<a href="https://velog.io/@ksu930">
-  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://yeonyeon.tistory.com"/>
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksu930&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+## 🙋‍♂️ Personal Info
+- Kim Sung Uk
+- CHUNG-ANG University (CAU)
+- ksu930310@gmail.com
 
 ## :earth_asia: 기술정보
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+- Frontend :![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-67DCF7?style=for-the-badge&logo=react&logoColor=white)
@@ -17,4 +17,9 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![StyledComponent](https://img.shields.io/badge/styledcomponent-DB7093?style=for-the-badge&logo=styledcomponent&logoColor=white)
-![YARN](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+- Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=heroku&logoColor=white"/></span><br/>
