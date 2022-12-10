@@ -15,13 +15,12 @@
 <span><img src="https://img.shields.io/badge/Redux-764abc?style=flat&logo=redux&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/ReactQuery-000000?style=flat&logo=React-Query&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=next-dot-js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=next-dot-js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=next-dot-js&logoColor=white"/></span><br/>
+<span><img src="https://img.shields.io/badge/styled-components-7952B3?style=flat&logo=styled-components&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Axios-06B6D4?style=flat&logo=Axios&logoColor=white"/></span><br/>
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=heroku&logoColor=white"/></span><br/>
-
 
