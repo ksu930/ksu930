@@ -25,6 +25,6 @@
 <span><img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat&logo=bitbucket&logoColor=white"/></span><br/>
 - Communication : Slack, Notion
 
-## ✏️ Blog For Learning - <a href="https://velog.io/@ksu930">Here</a
+## ✏️ Blog For Learning - <a href="https://velog.io/@ksu930">Here</a>
 ## 📝 Portfolio Website - <a href="">Here</a>
-[![image](https://user-images.githubusercontent.com/113888184/206840113-49e710f6-7fe0-4d74-82d3-ec4ea8c4803a.JPG)
+![image](https://user-images.githubusercontent.com/113888184/206840113-49e710f6-7fe0-4d74-82d3-ec4ea8c4803a.JPG)
