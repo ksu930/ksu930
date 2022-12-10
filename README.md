@@ -23,4 +23,4 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat&logo=bitbucket&logoColor=white"/></span><br/>
 - Communication : <span><img src="https://img.shields.io/badge/Notion?style=flat&logo=Notion&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Slack?style=flat&logo=Slacke&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Slack?style=flat&logo=Slack&logoColor=white"/></span>
