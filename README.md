@@ -26,5 +26,5 @@
 - Communication : Slack, Notion
 
 ## ✏️ Blog For Learning - <a href="https://velog.io/@ksu930">Here</a>
-## 📝 Portfolio Website - <a href="">Here</a>
+## 📝 Portfolio Website - <a href="https://ksu-portfolio.com/">Here</a>
 ![image](https://user-images.githubusercontent.com/113888184/206840113-49e710f6-7fe0-4d74-82d3-ec4ea8c4803a.JPG)
