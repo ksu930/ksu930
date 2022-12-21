@@ -22,7 +22,6 @@
 <span><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat&logo=bitbucket&logoColor=white"/></span><br/>
 - Communication : Slack, Notion
 
 ## ✏️ Blog For Learning - <a href="https://velog.io/@ksu930">Here</a>
